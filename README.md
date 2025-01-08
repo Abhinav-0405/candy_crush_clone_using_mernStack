@@ -1,5 +1,3 @@
-# candy_crush_clone_using_mernStack
-
 # Candy Crush Clone
 
 A fully functional Candy Crush clone built using modern web technologies. This game features candies that shift downward after being popped, complete with added sound effects for a dynamic user experience.
